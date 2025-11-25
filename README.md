@@ -97,9 +97,6 @@ I love solving problems through logic, structure, and algorithms — making proc
 
 ## **📊 GitHub Stats**
 
-Replace **YOUR_GITHUB_USERNAME** with your GitHub handle.
-
-
 ![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijahnewton&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnewton&layout=compact&theme=tokyonight)
 
