@@ -9,7 +9,7 @@ Everything is still in **first-person**, polished, and ready for GitHub.
 
 <p align="left">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=elijahnewton&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
   <!-- Languages & Tools -->
 
@@ -99,7 +99,7 @@ I love solving problems through logic, structure, and algorithms — making proc
 
 Replace **YOUR_GITHUB_USERNAME** with your GitHub handle.
 
-```md
+
 ![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijahnewton&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnewton&layout=compact&theme=tokyonight)
-```
+
