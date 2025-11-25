@@ -95,8 +95,4 @@ I love solving problems through logic, structure, and algorithms — making proc
 
 ---
 
-## **📊 GitHub Stats**
-
-![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijahnewton&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahnewton&layout=compact&theme=tokyonight)
 
