@@ -1,6 +1,3 @@
-Here is your **README version with clean, modern GitHub badges** added to the top and relevant sections.
-Everything is still in **first-person**, polished, and ready for GitHub.
-
 ---
 
 # **👋 Hi, I’m Elijah — Developer • Problem Solver • Technical Thinker**
@@ -94,5 +91,4 @@ I love solving problems through logic, structure, and algorithms — making proc
 📧 **[musiitwaelijah@gmail.com](mailto:musiitwaelijah@gmail.com)**
 
 ---
-
 
