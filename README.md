@@ -1,94 +1,67 @@
----
-
-# **👋 Hi, I’m Elijah — Developer • Problem Solver • Technical Thinker**
-
-<!-- Badges Section -->
+# 👋 Hi, I'm Elijah — Developer · Problem Solver · Technical Thinker
 
 <p align="left">
-  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=elijahnewton&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
-  <!-- Languages & Tools -->
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C_Programming-A8B9CC?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-
-  <!-- OS & Tools -->
-
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## **🧑‍💻 About Me**
+## 🧑‍💻 About
 
-I am a passionate, self-driven learner who loves building technology that solves real-world problems. My journey started in electrical installation, where I learned discipline, precision, and systems thinking. Over time, I transitioned into software development because I wanted to create tools that help people and simplify complex tasks.
-
-I thrive on learning — whether it’s writing better code, understanding system administration, or breaking down complex ideas into simple explanations.
+Self-driven developer and problem-solver with a background in electrical installation that shaped my discipline and systems thinking. I build practical tools that help people and simplify complex tasks, and I thrive on continuous learning — from writing cleaner code to understanding infrastructure and documentation.
 
 ---
 
-## **💻 What I’m Learning & Building**
+## 🧰 Skills & Tech Stack
 
-### **Software Development**
-
-* Python (working toward building any project from scratch)
-* C programming
-* JavaScript & responsive web development
-* Creating real-world problem–solving apps
-
-### **Systems & Infrastructure**
-
-* Windows Server + Active Directory
-* Authentication, permissions, systems security
-* Basic networking
-* Useful automation and scripting
-
-### **Computational Thinking**
-
-I love solving problems through logic, structure, and algorithms — making processes simpler and more efficient.
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, C, JavaScript, HTML5, CSS3 |
+| **Frontend** | Tailwind CSS, responsive web design |
+| **Tools** | Git, VS Code |
+| **IT & Infrastructure** | Windows Server, Active Directory, basic networking |
+| **Other** | Debugging, technical writing, scripting |
 
 ---
 
-## **🌍 My Broader Interests**
+## 💻 What I'm Working On & Learning
 
-* Data analysis
-* Technical writing & documentation
-* Building practical digital tools
-* Learning languages (Kiswahili, German)
-* Improving my learning processes
-* Working with diverse people and ideas
-
----
-
-## **🧰 Tools & Technologies**
-
-* **Languages:** Python, C, JavaScript, HTML, CSS
-* **Tools:** Git, VS Code, Tailwind CSS
-* **IT:** Active Directory, networking basics
-* **Other:** Debugging, documentation, system thinking
+- **Python** — building full projects from scratch
+- **C programming** — low-level fundamentals and data structures
+- **JavaScript** — interactive web development
+- **Systems & security** — authentication, permissions, Windows Server administration
+- **DevOps basics** — CI/CD, containerization, cloud deployments
 
 ---
 
-## **🚀 My Goals**
+## 🚀 Featured Projects
 
-* Become a versatile full-stack or systems-capable developer
-* Build real-world applications that make an impact
-* Strengthen cybersecurity + networking fundamentals
-* Grow a strong GitHub portfolio
-* Keep learning every day
-
----
-
-## **📫 Contact**
-
-📧 **[musiitwaelijah@gmail.com](mailto:musiitwaelijah@gmail.com)**
+| Repository | Description |
+|---|---|
+| [file-share-dec-2025](https://github.com/elijahnewton/file-share-dec-2025) | Educational file-sharing platform built with Python/Django |
+| [elijahnewton.github.io](https://github.com/elijahnewton/elijahnewton.github.io) | Personal portfolio website (HTML/CSS) |
+| [slau-c-programming-project-yr1-sem1](https://github.com/elijahnewton/slau-c-programming-project-yr1-sem1) | Year 1 Semester 1 C programming coursework project |
+| [muhumuzadaniel-c](https://github.com/elijahnewton/muhumuzadaniel-c) | C programming exercises and solutions |
+| [mini-scientific-calculator](https://github.com/elijahnewton/mini-scientific-calculator) | Command-line scientific calculator written in Python |
+| [devops-capstone-project](https://github.com/elijahnewton/devops-capstone-project) | IBM DevOps capstone — CI/CD pipelines and containerised Python app |
 
 ---
 
+## 📫 How to Reach Me
+
+- 📧 Email: [musiitwaelijah@gmail.com](mailto:musiitwaelijah@gmail.com)
+- 🐙 GitHub: [github.com/elijahnewton](https://github.com/elijahnewton)
+
+---
+
+## ℹ️ About This Repository
+
+This is my **GitHub profile repository** (`elijahnewton/elijahnewton`). The `README.md` here is rendered directly on my [GitHub profile page](https://github.com/elijahnewton). It serves as a public introduction and overview of my work.
